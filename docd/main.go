@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"os"
 
-	"code.sajari.com/docconv"
+	"github.com/NICEXAI/docconv"
 )
 
 var (
